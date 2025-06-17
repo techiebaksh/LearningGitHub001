@@ -1,3 +1,3 @@
 # LearningGitHub001
 
-This i my first Read me file. 
+This is   my first Read me file. 
